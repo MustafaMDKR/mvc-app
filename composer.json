@@ -1,0 +1,17 @@
+{
+    "name": "dash/mvcapp",
+    "authors": [
+        {
+            "name": "Mustafa Madkour",
+            "email": "mustafamdkr@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
